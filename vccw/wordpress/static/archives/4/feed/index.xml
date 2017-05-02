@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>テストの記事1 へのコメント</title>
-	<atom:link href="/archives/4/feed" rel="self" type="application/rss+xml" />
-	<link>/archives/4</link>
+	<atom:link href="/static/archives/4/feed" rel="self" type="application/rss+xml" />
+	<link>/static/archives/4</link>
 	<description>Hello VCCW.</description>
-	<lastBuildDate>Tue, 02 May 2017 06:31:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 May 2017 07:44:35 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.4</generator>

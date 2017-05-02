@@ -7,12 +7,22 @@
 	>
 <channel>
 	<title>テストの記事2 へのコメント</title>
-	<atom:link href="/archives/6/feed" rel="self" type="application/rss+xml" />
-	<link>/archives/6</link>
+	<atom:link href="/static/archives/6/feed" rel="self" type="application/rss+xml" />
+	<link>/static/archives/6</link>
 	<description>Hello VCCW.</description>
-	<lastBuildDate>Tue, 02 May 2017 06:31:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 May 2017 07:44:35 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<item>
+		<title>admin より</title>
+		<link>/static/archives/6#comment-2</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 02 May 2017 07:44:35 +0000</pubDate>
+		<guid isPermaLink="false">/static/?p=6#comment-2</guid>
+		<description><![CDATA[aaa]]></description>
+		<content:encoded><![CDATA[<p>aaa</p>
+]]></content:encoded>
+	</item>
 </channel>
 </rss>

@@ -7,19 +7,29 @@
 	>
 <channel>
 	<title>Welcome to the VCCW へのコメント</title>
-	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/static/comments/feed" rel="self" type="application/rss+xml" />
+	<link>/static/</link>
 	<description>Hello VCCW.</description>
-	<lastBuildDate>Tue, 02 May 2017 06:31:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 May 2017 07:44:35 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.4</generator>
 	<item>
+		<title>admin より テストの記事2 へのコメント</title>
+		<link>/static/archives/6#comment-2</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 02 May 2017 07:44:35 +0000</pubDate>
+		<guid isPermaLink="false">/static/?p=6#comment-2</guid>
+		<description><![CDATA[aaa]]></description>
+		<content:encoded><![CDATA[<p>aaa</p>
+]]></content:encoded>
+	</item>
+	<item>
 		<title>A WordPress Commenter より Hello world! へのコメント</title>
-		<link>/archives/1#comment-1</link>
+		<link>/static/archives/1#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 02 May 2017 06:31:23 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/static/?p=1#comment-1</guid>
 		<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
